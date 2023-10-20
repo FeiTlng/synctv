@@ -5,3 +5,6 @@
 /build
 *.db
 .vscode
+.idea/
+vendor/
+target/
